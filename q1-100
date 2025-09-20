@@ -8,6 +8,5 @@ printf("\n Enter num1:");
 scanf("%d",&num1);
 printf("\n Enter num2:");
 scanf("%d",&num2);
-sum=(num1+num2)
-printf("\n sum:");
+printf("\n sum:%d", num1+num2);
 }
